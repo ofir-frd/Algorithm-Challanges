@@ -2,8 +2,6 @@
 Remove Duplicates from Sorted Array
 """
 
-import numpy as np
-
 def removeDuplicates(nums: list):
     i=0
     while i < (len(nums) - 1):
