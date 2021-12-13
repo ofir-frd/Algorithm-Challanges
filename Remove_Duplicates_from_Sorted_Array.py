@@ -1,5 +1,6 @@
 """
-Remove Duplicates from Sorted Array
+Remove Duplicates from Sorted Array:
+Not allowed to allocate extra space for another array
 """
 
 def removeDuplicates(nums: list):
