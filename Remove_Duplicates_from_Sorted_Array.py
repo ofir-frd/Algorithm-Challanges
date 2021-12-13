@@ -11,4 +11,5 @@ def removeDuplicates(nums: list):
             continue
         i += 1
 
-    print(nums)
+    print(nums)   
+    return len(nums)
