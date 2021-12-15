@@ -6,7 +6,7 @@ Practice programming skills by solving coding questions
 
 <div align="center">
 
-[![Easy](https://img.shields.io/badge/Easy-4-5cb85c.svg?style=flat)]()
+[![Easy](https://img.shields.io/badge/Easy-5-5cb85c.svg?style=flat)]()
 [![Medium](https://img.shields.io/badge/Medium-0-f0ad4e.svg?style=flat)]()
 [![Hard](https://img.shields.io/badge/Hard-0-d9534f.svg?style=flat)]()
 </br>
