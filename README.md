@@ -20,6 +20,6 @@ Practice programming skills by solving coding questions
   
 |  #    | Title                                                                            | Difficulty                                                           | Solution                                                  | Runtime   | Memory  |
 |  ---- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------- | --------- | ------- |
-|   1   | [Single Number](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                    | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)     | [GitHub](Best_Time_to_Buy_and_Sell_Stock.ipynb)                        | 407 ms    | 32  MB |
+|   1   | [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                    | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)     | [GitHub](Best_Time_to_Buy_and_Sell_Stock.ipynb)                        | 407 ms    | 32  MB |
 
 </div>
