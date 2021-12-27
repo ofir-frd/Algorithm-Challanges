@@ -6,7 +6,7 @@ Practice programming skills by solving coding questions
 
 <div align="center">
 
-[![Easy](https://img.shields.io/badge/Easy-5-5cb85c.svg?style=flat)]()
+[![Easy](https://img.shields.io/badge/Easy-6-5cb85c.svg?style=flat)]()
 [![Medium](https://img.shields.io/badge/Medium-1-f0ad4e.svg?style=flat)]()
 [![Hard](https://img.shields.io/badge/Hard-0-d9534f.svg?style=flat)]()
 </br>
@@ -25,6 +25,7 @@ Practice programming skills by solving coding questions
 |   3   | [Rotate Array](https://leetcode.com/problems/rotate-array/)                    | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)     | [GitHub](Rotate_Array.ipynb)                        | 224 ms    | 25.6 MB |
 |   4   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                    | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)     | [GitHub](Contains_Duplicate.ipynb)                        | 468 ms    | 26 MB |
 |   5   | [Single Number](https://leetcode.com/problems/single-number/)                    | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)     | [GitHub](Single_Number.ipynb)                        | 187 ms    | 16.7 MB |
-|   6   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                    | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)     | [GitHub](Set_Matrix_Zeroes.py)                        | 200 ms    | 31.7 MB |
+|   6   | [Reverse String](https://leetcode.com/problems/reverse-string/)                    | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)     | [GitHub](Reverse_String.py)                        | 220 ms    | 18.7 MB |
+|   7   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                    | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)     | [GitHub](Set_Matrix_Zeroes.py)                        | 200 ms    | 31.7 MB |
 
 </div>
