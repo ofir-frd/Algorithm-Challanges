@@ -26,7 +26,7 @@ Practice programming skills by solving coding questions
 |   4   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                    | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)     | [GitHub](Contains_Duplicate.ipynb)                        | 468 ms    | 26 MB |
 |   5   | [Single Number](https://leetcode.com/problems/single-number/)                    | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)     | [GitHub](Single_Number.ipynb)                        | 187 ms    | 16.7 MB |
 |   6   | [Reverse String](https://leetcode.com/problems/reverse-string/)                    | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)     | [GitHub](Reverse_String.py)                        | 220 ms    | 18.7 MB |
-|   7   | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                    | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)     | [GitHub](Delete_Node_in_a_Linked_List)                        | tba ms    | tba MB |
+|   7   | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                    | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)     | [GitHub](Delete_Node_in_a_Linked_List)                        | 40 ms    | 14.7 MB |
 |   8   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                    | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)     | [GitHub](Set_Matrix_Zeroes.py)                        | 200 ms    | 31.7 MB |
 
 </div>
