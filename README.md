@@ -7,7 +7,7 @@ Practice programming skills by solving coding questions
 <div align="center">
 
 [![Easy](https://img.shields.io/badge/Easy-7-5cb85c.svg?style=flat)]()
-[![Medium](https://img.shields.io/badge/Medium-1-f0ad4e.svg?style=flat)]()
+[![Medium](https://img.shields.io/badge/Medium-2-f0ad4e.svg?style=flat)]()
 [![Hard](https://img.shields.io/badge/Hard-0-d9534f.svg?style=flat)]()
 </br>
 [![Languages](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)]()
