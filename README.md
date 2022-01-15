@@ -28,7 +28,7 @@ Practice programming skills by solving coding questions
 |   6   | [Reverse String](https://leetcode.com/problems/reverse-string/)                    | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)     | [GitHub](Reverse_String.py)                        | 220 ms    | 18.7 MB |
 |   7   | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                    | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)     | [GitHub](Delete_Node_in_a_Linked_List)                        | 40 ms    | 14.7 MB |
 |   8   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                    | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)     | [GitHub](Set_Matrix_Zeroes.py)                        | 200 ms    | 31.7 MB |
-|   9   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                    | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)     | [GitHub](Add_Two_Numbers.py)                        | 111 ms    | 14.1 MB, top 2% in LeetCode |
+|   9   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                    | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)     | [GitHub](Add_Two_Numbers.py)                        | 111 ms    | 14.1 MB, top 2% |
   
   
 </div>
