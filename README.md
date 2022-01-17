@@ -7,7 +7,7 @@ Practice programming skills by solving coding questions
 <div align="center">
 
 [![Easy](https://img.shields.io/badge/Easy-7-5cb85c.svg?style=flat)]()
-[![Medium](https://img.shields.io/badge/Medium-2-f0ad4e.svg?style=flat)]()
+[![Medium](https://img.shields.io/badge/Medium-3-f0ad4e.svg?style=flat)]()
 [![Hard](https://img.shields.io/badge/Hard-0-d9534f.svg?style=flat)]()
 </br>
 [![Languages](https://img.shields.io/badge/Languages-Python-red.svg?style=flat)]()
@@ -29,6 +29,7 @@ Practice programming skills by solving coding questions
 |   7   | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                    | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat)     | [GitHub](Delete_Node_in_a_Linked_List)                        | 40 ms    | 14.7 MB |
 |   8   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                    | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)     | [GitHub](Set_Matrix_Zeroes.py)                        | 200 ms    | 31.7 MB |
 |   9   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                    | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)     | [GitHub](Add_Two_Numbers.py)                        | 111 ms    | 14.1 MB, top 2% |
+|   10   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                    | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat)     | [GitHub](Binary_Tree_Zigzag_Level_Order_Traversal.py)                        | tba ms    | tba MB |
   
   
 </div>
